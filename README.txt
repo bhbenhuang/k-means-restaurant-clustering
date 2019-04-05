@@ -8,6 +8,6 @@ Using the Yelp API, we have implemented a program that allows user to input the 
 
 Running the Project:
 - Download all .java and .jar files
-- Open .java files in an integrated development environment such as Eclipse
-- Add .jar files into IDE
+- Open .java files in an integrated development environment such as Exclipse
+- Add .jar files into IDE through adding external JARs
 - Run KMeansRunner.java, which will prompt you as needed
