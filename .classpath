@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="/Users/benhuang/Documents/Penn/GitHub/k-means-restaurant-clustering/mockwebserver-3.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/benhuang/Documents/Penn/GitHub/k-means-restaurant-clustering/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/benhuang/Documents/Penn/GitHub/k-means-restaurant-clustering/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/benhuang/Documents/Penn/GitHub/k-means-restaurant-clustering/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
